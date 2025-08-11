@@ -5,26 +5,28 @@ Los usuarios pueden ingresar nombres de sus amigos y sortear uno aleatoriamente.
 
 ## 👨‍💻 Sobre el proyecto
 
-Este proyecto fue realizado como parte de mi aprendizaje en desarrollo web. Mi objetivo principal fue practicar lógica de programación con JavaScript y 
-trabajar con elementos HTML y estilos con CSS.
+Este proyecto fue realizado como parte de mi aprendizaje en desarrollo web. 
+Mi objetivo principal fue practicar lógica de programación con JavaScript y trabajar con HTML.
 
-## 🚀 ¿Qué puedes hacer?
+## ¿Qué se puede hacer?
 
 - Agregar nombres de amigos a una lista.
 - Ver la lista de amigos actualizada.
+- Eliminar nombres individuales si se equivocaron.
 - Sortear un amigo secreto aleatorio.
 - Ver quién fue sorteado.
-
+- Reiniciar el juego.
 
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
 - CSS3
-- JavaScript (puro, sin frameworks)
+- JavaScript
 
 ## 📸 Vista previa
 
 ![Vista previa del proyecto](assets/amigo-secreto.png)
+
 
 ## ⚙️ Cómo usarlo
 
@@ -49,4 +51,8 @@ Con este proyecto aprendí a:
 ## 👨‍🎓 Autor
 
 **Gerson Salazar Vera** – Desarrollador web en formación.
+
+---
+
+
 
