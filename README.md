@@ -33,6 +33,7 @@ Mi objetivo principal fue practicar lógica de programación con JavaScript y tr
 1. Abre el archivo `index.html` en tu navegador.
 2. Escribe los nombres en el campo de texto y presiona **"Añadir"**.
 3. Cuando tengas varios nombres, presiona **"Sortear amigo"** para ver el resultado.
+4. Link del proyecto (https://gersons87.github.io/amigo-secreto/)
 
 ## 📌 Notas
 
@@ -53,6 +54,7 @@ Con este proyecto aprendí a:
 **Gerson Salazar Vera** – Desarrollador web en formación.
 
 ---
+
 
 
 
